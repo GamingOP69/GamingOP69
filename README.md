@@ -65,8 +65,6 @@ I'm always open to collaboration, learning, and exciting tech talks! Find me on:
 
 - 📧 [Email](mailto:samratkafle36@gmail.com)
 - 🎧 [Spotify](https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u?si=37e4a04f6c7a4578)
-- 📸 [Instagram](https://www.instagram.com/samrattt_17/)
-- 🧵 [Threads](https://www.threads.net/@samrattt_17?xmt=AQGzfFTMctrs4bhw_0_9reQ0mo4Ptc57sPga-bK72wYLmsE)
 - 🐦 [X (Twitter)](https://x.com/Gamingo59581045)
 - 👽 [Reddit](https://www.reddit.com/user/GAMINGOP_1/)
 
