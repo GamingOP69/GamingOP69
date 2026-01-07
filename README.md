@@ -66,11 +66,11 @@ clean, useful, and scalable digital products.
 
 ## 🌟 Projects
 
-- 🧩 **Minecraft Plugins** — server features, performance tools
-- 🌐 **Web Apps** — responsive UIs and APIs
-- 📱 **Android Apps** — shipped apps with polished UX
+- 🧩 **Minecraft Plugins** — server features and gameplay systems  
+- 🌐 **Web Apps** — responsive UIs and APIs  
+- 📱 **Android Apps** — shipped apps with polished UX  
 
-🔗 GitHub: https://github.com/GamingOP69
+🔗 **GitHub:** https://github.com/GamingOP69
 
 ---
 
@@ -89,33 +89,6 @@ clean, useful, and scalable digital products.
 - **Python** — 2+ years (automation, scripting)
 - **Android** — multiple real-world apps
 - **Web Dev** — HTML, CSS, JS, TypeScript, Node.js
-
----
-
-## 📊 GitHub Stats (CAMO-SAFE)
-
-<div align="center">
-
-<img
-  src="https://metrics.lecoq.io/GamingOP69?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0"
-  alt="GitHub metrics"
-/>
-
-<br /><br />
-
-<img
-  src="https://streak-stats.demolab.com/?user=GamingOP69&theme=radical&hide_border=true"
-  alt="GitHub streak"
-/>
-
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GamingOP69&theme=react-dark&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</div>
 
 ---
 
