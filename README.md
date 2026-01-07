@@ -16,21 +16,21 @@
 
 ## 🚀 About Me
 
-I'm **Samrat**, also known as **GamingOP** — a passionate software engineer who enjoys building
-useful, scalable, and sometimes fun digital products.
+I'm **Samrat**, also known as **GamingOP** — a software engineer who enjoys building
+clean, useful, and scalable digital products.
 
 - 🌍 Location: Nepal  
 - 💻 Focus: Web, Java/Minecraft, Android  
-- 🧠 Philosophy: Learn deeply, build cleanly, improve constantly  
+- 🧠 Mindset: Learn deeply, build cleanly, improve continuously  
 
 ---
 
 ## 💡 What I Build
 
 - 🎮 **Minecraft Plugins & Tools** (Java, Spigot/Bukkit)
-- 🌐 **Web Applications** (modern frontend + backend APIs)
+- 🌐 **Web Applications** (frontend + backend APIs)
 - 📱 **Android Apps** (clean UI, real-world usability)
-- ⚙️ **Automation & Utilities** (scripts, small tools, CLIs)
+- ⚙️ **Automation & Utilities** (scripts, small tools)
 
 ---
 
@@ -66,8 +66,8 @@ useful, scalable, and sometimes fun digital products.
 
 ## 🌟 Projects
 
-- 🧩 **Minecraft Plugins** — server features, performance tools, gameplay systems
-- 🌐 **Web Apps** — responsive UIs, APIs, dashboards
+- 🧩 **Minecraft Plugins** — server features, performance tools
+- 🌐 **Web Apps** — responsive UIs and APIs
 - 📱 **Android Apps** — shipped apps with polished UX
 
 🔗 GitHub: https://github.com/GamingOP69
@@ -92,18 +92,22 @@ useful, scalable, and sometimes fun digital products.
 
 ---
 
-## 📊 GitHub Stats (Stable & Fixed)
+## 📊 GitHub Stats (CAMO-SAFE)
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&theme=radical&cache_seconds=1800"
-    alt="GitHub stats"
-  />
-  <br /><br />
-  <img
-    src="https://streak-stats.demolab.com/?user=GamingOP69&theme=radical&hide_border=true"
-    alt="GitHub streak"
-  />
+
+<img
+  src="https://metrics.lecoq.io/GamingOP69?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0"
+  alt="GitHub metrics"
+/>
+
+<br /><br />
+
+<img
+  src="https://streak-stats.demolab.com/?user=GamingOP69&theme=radical&hide_border=true"
+  alt="GitHub streak"
+/>
+
 </div>
 
 <div align="center">
