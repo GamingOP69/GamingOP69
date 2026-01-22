@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samrat  
+# 👋 Hi, I'm Samrat  
 ### aka **GamingOP**
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ## 🚀 About Me
 
-I’m **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
+I'm **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
 
 I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.  
-I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications [[5]].
+I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications.
 
 - 🌍 **Location:** Nepal  
 - 💻 **Focus:** Web, Java (Minecraft), Android  
@@ -56,7 +56,7 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
   <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git&theme=light" />
 </p>
 
-> Tools matter — but **how** they’re used matters more.
+> Tools matter — but **how** they're used matters more.
 
 ---
 
@@ -128,7 +128,7 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 - **Java** — 3+ years (OOP, plugins, backend logic)  
 - **Python** — 2+ years (automation, scripting)  
-- **Android** — multiple real-world applications  
+- **Android** — multiple real-world applications published and maintained
 - **Web** — HTML, CSS, JS, TypeScript, Node.js  
 
 ---
