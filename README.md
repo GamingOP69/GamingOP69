@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samrat  
+# 👋 Hi, I’m Samrat  
 ### aka **GamingOP**
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
+I’m **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
 
 I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.  
 I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications.
@@ -33,10 +33,10 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 ## 🧩 What I Build
 
-- 🎮 **Minecraft Plugins & Tools** — gameplay systems, server utilities (Spigot/Bukkit)
-- 🌐 **Web Applications** — full-stack apps with clean APIs
-- 📱 **Android Applications** — real-world apps with polished UX
-- ⚙️ **Automation & Utilities** — scripts that reduce friction
+- 🎮 **Minecraft Plugins & Tools** — gameplay systems, server utilities (Spigot/Bukkit)  
+- 🌐 **Web Applications** — full-stack apps with clean, maintainable APIs  
+- 📱 **Android Applications** — real-world apps with polished UX  
+- ⚙️ **Automation & Utilities** — scripts and tools that reduce friction  
 
 ---
 
@@ -47,23 +47,24 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js&theme=light" />
 </p>
 
-### Platforms & Frameworks<p align="center">
+### Platforms & Frameworks
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,android,firebase&theme=light" />
 </p>
 
 ### Databases & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,gradle,maven&theme=light" />
 </p>
 
-> Tools matter — but **how** they're used matters more.
+> Tools matter — but **how** they’re used matters more.
 
 ---
 
 ## 🌟 Featured Work
 
-- 🧩 **Minecraft Plugins** — gameplay mechanics & server systems  
-- 🌐 **Web Apps** — responsive UIs with structured APIs  
+- 🧩 **Minecraft Plugins** — gameplay mechanics and server systems  
+- 🌐 **Web Apps** — responsive UIs backed by structured APIs  
 - 📱 **Android Apps** — shipped projects with real users  
 
 🔗 **GitHub:** https://github.com/GamingOP69
@@ -74,7 +75,7 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800"
     alt="GitHub stats"
   />
 </p>
@@ -96,9 +97,10 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GamingOP69&no-frame=true&margin-w=10&column=5"
+    src="https://github-profile-trophy.vercel.app/?username=GamingOP69&no-frame=true&margin-w=10&column=4"
     alt="GitHub trophies"
   />
 </p>
@@ -128,8 +130,8 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 - **Java** — 3+ years (OOP, plugins, backend logic)  
 - **Python** — 2+ years (automation, scripting)  
-- **Android** — multiple real-world applications published and maintained
-- **Web** — HTML, CSS, JS, TypeScript, Node.js  
+- **Android** — multiple real-world applications published and maintained  
+- **Web** — HTML, CSS, JavaScript, TypeScript, Node.js  
 
 ---
 
