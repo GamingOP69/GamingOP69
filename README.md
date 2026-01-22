@@ -42,12 +42,12 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,ts,js&theme=light" />
 </p>
 
-### Frameworks & Platforms<p align="center">
+### Platforms & Frameworks<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,android,firebase&theme=light" />
 </p>
 
