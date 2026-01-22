@@ -109,20 +109,10 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:samratkafle36@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-  </a>
-  <a href="https://x.com/Gamingo59581045">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
-  </a>
-  <a href="https://www.reddit.com/user/GAMINGOP_1/">
-    <img src="https://skillicons.dev/icons?i=reddit&theme=light" />
-  </a>
-  <a href="https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u">
-    <img src="https://skillicons.dev/icons?i=spotify&theme=light" />
-  </a>
-</p>
+- **Email:** samratkafle36@gmail.com  
+- **X (Twitter):** https://x.com/Gamingo59581045  
+- **Reddit:** https://www.reddit.com/user/GAMINGOP_1/  
+- **Spotify:** https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u  
 
 ---
 
