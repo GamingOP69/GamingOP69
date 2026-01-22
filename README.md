@@ -10,17 +10,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GamingOP69&style=flat-square&color=blue" alt="profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=GamingOP69&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Samrat**, a developer who focuses on building **clean, reliable, and scalable software**.  
-I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.
+I’m **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
 
-I enjoy understanding how systems work under the hood — whether it’s a game server, a backend API, or a mobile application.
+I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.  
+I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications.
 
 - 🌍 **Location:** Nepal  
 - 💻 **Focus:** Web, Java (Minecraft), Android  
@@ -30,17 +33,10 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 
 ## 🧩 What I Build
 
-- 🎮 **Minecraft Plugins & Tools**  
-  Custom gameplay systems, server utilities, and performance-aware plugins (Spigot/Bukkit)
-
-- 🌐 **Web Applications**  
-  Full-stack projects with clean frontends and structured backend APIs
-
-- 📱 **Android Applications**  
-  Practical apps with real-world UX and maintainable codebases
-
-- ⚙️ **Automation & Utilities**  
-  Scripts and tools that reduce friction and save time
+- 🎮 **Minecraft Plugins & Tools** — gameplay systems, server utilities (Spigot/Bukkit)
+- 🌐 **Web Applications** — full-stack apps with clean APIs
+- 📱 **Android Applications** — real-world apps with polished UX
+- ⚙️ **Automation & Utilities** — scripts that reduce friction
 
 ---
 
@@ -48,28 +44,28 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js&theme=light" />
 </p>
 
 ### Frameworks & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,android,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,android,firebase&theme=light" />
 </p>
 
 ### Databases & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git&theme=light" />
 </p>
 
-> I care more about **how tools are used** than how many tools are listed.
+> Tools matter — but **how** they’re used matters more.
 
 ---
 
 ## 🌟 Featured Work
 
-- 🧩 **Minecraft Plugins** — gameplay mechanics, server systems, utilities  
-- 🌐 **Web Apps** — responsive UIs with well-designed APIs  
-- 📱 **Android Apps** — shipped apps with polished UX  
+- 🧩 **Minecraft Plugins** — gameplay mechanics & server systems  
+- 🌐 **Web Apps** — responsive UIs with structured APIs  
+- 📱 **Android Apps** — shipped projects with real users  
 
 🔗 **GitHub:** https://github.com/GamingOP69
 
@@ -78,15 +74,24 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingOP69&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=GamingOP69&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingOP69&layout=compact&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingOP69&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800"
+    alt="Top languages"
+  />
 </p>
 
 ---
@@ -94,7 +99,10 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GamingOP69&theme=flat&no-frame=true&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=GamingOP69&no-frame=true&margin-w=10&column=5"
+    alt="GitHub trophies"
+  />
 </p>
 
 ---
@@ -103,16 +111,16 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 
 <p align="center">
   <a href="mailto:samratkafle36@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
   <a href="https://x.com/Gamingo59581045">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
   </a>
   <a href="https://www.reddit.com/user/GAMINGOP_1/">
-    <img src="https://skillicons.dev/icons?i=reddit" />
+    <img src="https://skillicons.dev/icons?i=reddit&theme=light" />
   </a>
   <a href="https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u">
-    <img src="https://skillicons.dev/icons?i=spotify" />
+    <img src="https://skillicons.dev/icons?i=spotify&theme=light" />
   </a>
 </p>
 
@@ -122,8 +130,8 @@ I enjoy understanding how systems work under the hood — whether it’s a game 
 
 - **Java** — 3+ years (OOP, plugins, backend logic)  
 - **Python** — 2+ years (automation, scripting)  
-- **Android Development** — multiple real-world apps  
-- **Web Development** — HTML, CSS, JS, TypeScript, Node.js  
+- **Android** — multiple real-world applications  
+- **Web** — HTML, CSS, JS, TypeScript, Node.js  
 
 ---
 
