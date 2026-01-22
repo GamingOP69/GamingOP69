@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samrat  
+# 👋 Hi, I'm Samrat  
 ### aka **GamingOP**
 
 <p align="center">
@@ -6,21 +6,18 @@
 </p>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=GamingOP69&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=GamingOP69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
+I'm **Samrat**, a developer focused on building **clean, reliable, and scalable software**.
 
 I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.  
 I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications.
@@ -44,20 +41,20 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js&theme=light" alt="Programming Languages"/>
 </p>
 
 ### Frameworks & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,android,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,android,firebase&theme=light" alt="Frameworks and Platforms"/>
 </p>
 
 ### Databases & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git&theme=light" alt="Databases and Tools"/>
 </p>
 
-> Tools matter — but **how** they’re used matters more.
+> Tools matter — but **how** they're used matters more.
 
 ---
 
@@ -67,31 +64,22 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 - 🌐 **Web Apps** — responsive UIs with structured APIs  
 - 📱 **Android Apps** — shipped projects with real users  
 
-🔗 **GitHub:** https://github.com/GamingOP69
+🔗 **GitHub:** [github.com/GamingOP69](https://github.com/GamingOP69)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=GamingOP69&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GamingOP69&hide_border=true&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingOP69&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingOP69&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
@@ -99,10 +87,7 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 ## 🏆 Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=GamingOP69&no-frame=true&margin-w=10&column=5"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=GamingOP69&theme=flat&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -111,16 +96,16 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 
 <p align="center">
   <a href="mailto:samratkafle36@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email"/>
   </a>
   <a href="https://x.com/Gamingo59581045">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter"/>
   </a>
   <a href="https://www.reddit.com/user/GAMINGOP_1/">
-    <img src="https://skillicons.dev/icons?i=reddit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=reddit&theme=light" alt="Reddit"/>
   </a>
   <a href="https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u">
-    <img src="https://skillicons.dev/icons?i=spotify&theme=light" />
+    <img src="https://skillicons.dev/icons?i=spotify&theme=light" alt="Spotify"/>
   </a>
 </p>
 
@@ -136,7 +121,7 @@ I enjoy understanding systems deeply — from game servers to backend APIs and m
 ---
 
 <p align="center">
-  <b>“Strive not to be a success, but rather to be of value.” — Albert Einstein</b>
+  <b>"Strive not to be a success, but rather to be of value." — Albert Einstein</b>
 </p>
 
 <p align="center">
