@@ -1,112 +1,129 @@
-# Hi, I’m Samrat  
-### (also known as GamingOP)
+# 👋 Hi, I’m Samrat  
+### aka **GamingOP**
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif"
-    alt="Welcome animation"
-    width="420"
-  />
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="420" alt="Welcome animation"/>
 </p>
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
 
----
-
-## About Me
-
-I’m **Samrat**, a developer who enjoys building systems that are simple on the surface, solid underneath, and practical in the real world.
-
-I care about **clean architecture**, **readable code**, and **long-term maintainability** more than quick hacks. Most of my work revolves around turning ideas into usable products — whether that’s a game plugin, a backend service, or a mobile app.
-
-- **Location:** Nepal  
-- **Primary Focus:** Web Development, Java (Minecraft), Android  
-- **Approach:** Learn deeply, build thoughtfully, improve continuously  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GamingOP69&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
 ---
 
-## What I Work On
+## 🚀 About Me
 
-- **Minecraft Plugins & Tools**  
-  Custom server features, gameplay systems, and performance-aware plugins using Java (Spigot/Bukkit).
+I’m **Samrat**, a developer who focuses on building **clean, reliable, and scalable software**.  
+I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.
 
-- **Web Applications**  
-  Full-stack projects with clean frontends and well-structured backend APIs.
+I enjoy understanding how systems work under the hood — whether it’s a game server, a backend API, or a mobile application.
 
-- **Android Applications**  
-  Real-world apps with practical UX, maintainable codebases, and modern tooling.
-
-- **Automation & Utilities**  
-  Small tools and scripts that remove friction and save time.
+- 🌍 **Location:** Nepal  
+- 💻 **Focus:** Web, Java (Minecraft), Android  
+- 🧠 **Mindset:** Learn deeply · Build cleanly · Improve continuously  
 
 ---
 
-## Tech Stack
+## 🧩 What I Build
 
-**Languages**
-- Java, Kotlin, Python, C/C++, Rust, Dart  
-- JavaScript, TypeScript
+- 🎮 **Minecraft Plugins & Tools**  
+  Custom gameplay systems, server utilities, and performance-aware plugins (Spigot/Bukkit)
 
-**Frameworks & Platforms**
-- Node.js  
-- Android SDK
+- 🌐 **Web Applications**  
+  Full-stack projects with clean frontends and structured backend APIs
 
-**Databases & Services**
-- Firebase  
-- PostgreSQL  
-- MySQL
+- 📱 **Android Applications**  
+  Practical apps with real-world UX and maintainable codebases
 
-**Build & Tooling**
-- Gradle  
-- Maven  
-
-I focus more on **how** tools are used than simply collecting them.
+- ⚙️ **Automation & Utilities**  
+  Scripts and tools that reduce friction and save time
 
 ---
 
-## Selected Work
+## 🛠️ Tech Stack
 
-- **Minecraft Plugins** — gameplay mechanics, server utilities, custom features  
-- **Web Apps** — responsive interfaces backed by structured APIs  
-- **Android Apps** — shipped projects with polished UX  
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,rust,dart,ts,js" />
+</p>
+
+### Frameworks & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,android,firebase" />
+</p>
+
+### Databases & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,gradle,maven,git" />
+</p>
+
+> I care more about **how tools are used** than how many tools are listed.
+
+---
+
+## 🌟 Featured Work
+
+- 🧩 **Minecraft Plugins** — gameplay mechanics, server systems, utilities  
+- 🌐 **Web Apps** — responsive UIs with well-designed APIs  
+- 📱 **Android Apps** — shipped apps with polished UX  
 
 🔗 **GitHub:** https://github.com/GamingOP69
 
 ---
 
-## Experience
-
-- **Java** — 3+ years  
-  OOP, backend logic, plugin development
-
-- **Python** — 2+ years  
-  Automation, scripting, utilities
-
-- **Android Development**  
-  Multiple real-world applications
-
-- **Web Development**  
-  HTML, CSS, JavaScript, TypeScript, Node.js
-
----
-
-## Connect
-
-- **Email:** samratkafle36@gmail.com  
-- **X (Twitter):** https://x.com/Gamingo59581045  
-- **Reddit:** https://www.reddit.com/user/GAMINGOP_1/  
-- **Spotify:** https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u  
-
----
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=GamingOP69&style=flat-square&color=blue"
-    alt="Profile views"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GamingOP69&show_icons=true&theme=transparent&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamingOP69&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingOP69&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GamingOP69&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:samratkafle36@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://x.com/Gamingo59581045">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.reddit.com/user/GAMINGOP_1/">
+    <img src="https://skillicons.dev/icons?i=reddit" />
+  </a>
+  <a href="https://open.spotify.com/user/31chvbbkbusbpqoh4blwdmbyap4u">
+    <img src="https://skillicons.dev/icons?i=spotify" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Experience Snapshot
+
+- **Java** — 3+ years (OOP, plugins, backend logic)  
+- **Python** — 2+ years (automation, scripting)  
+- **Android Development** — multiple real-world apps  
+- **Web Development** — HTML, CSS, JS, TypeScript, Node.js  
 
 ---
 
@@ -115,5 +132,5 @@ I focus more on **how** tools are used than simply collecting them.
 </p>
 
 <p align="center">
-  Built with curiosity, patience, and a respect for good engineering.
+  Built with curiosity, discipline, and respect for good engineering.
 </p>
