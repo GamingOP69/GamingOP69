@@ -25,8 +25,8 @@ I’m **Samrat**, a developer focused on building **clean, reliable, and scalabl
 I value **clarity over cleverness**, **architecture over shortcuts**, and **long-term maintainability** over trends.  
 I enjoy understanding systems deeply — from game servers to backend APIs and mobile applications.
 
-- 🌍 **Location:** Nepal  
-- 💻 **Focus:** Web, Java (Minecraft), Android  
+
+- 💻 **Focus:** Web, Java , Android , Python , Minecraft development
 - 🧠 **Mindset:** Learn deeply · Build cleanly · Improve continuously  
 
 ---
